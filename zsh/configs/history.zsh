@@ -1,0 +1,1 @@
+/Users/wangqsh/dotfiles/zsh/configs/history.zsh
